@@ -4,6 +4,7 @@ import logging
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
+
 # Configure logging
 logging.basicConfig(
     filename="scan_results.log",
